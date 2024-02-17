@@ -112,7 +112,7 @@ class _AboutPageState extends State<AboutPage> {
                     ),
                     GestureDetector(
                       onTap: () {
-                        var url = Uri.parse("https://wa.me/+923462369945");
+                        var url = Uri.parse("https://wa.me/");
                         launchUrl(url);
                       },
                       child: Image.asset(
