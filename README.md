@@ -17,7 +17,7 @@
 - Order list
 - Manage User details
 - Completely online authentication system
-- Remote Managemnt with the [Dashboard](https://github.com/malikahmadmukhtar/Online-Store-Dashboard-for-windows-in-flutter)
+- Remote Management with the [Dashboard](https://github.com/malikahmadmukhtar/Online-Store-Dashboard-for-windows-in-flutter)
 
 ### Dasboard can be Viewed [here](https://github.com/malikahmadmukhtar/Online-Store-Dashboard-for-windows-in-flutter)
 
